@@ -3,7 +3,7 @@
 Aqui você poderá acompanhar o que tenho estudado e de Python e suas principais bibliotecas, bem como, aplicação prática dos algoritimos de Machine Learning!
 
 ## 🚀 Sobre mim
-Sou estudante de Ciência de Dados, apaixonado por programação e fã de Python.
+💻 Sou estudante de Ciência de Dados, apaixonado por programação e fã de Python.
 
 🤓 Louco por Games e História!
 
