@@ -5,8 +5,8 @@ Aqui você poderá acompanhar o que tenho estudado e de Python e suas principais
 ## 🚀 Sobre mim
 Sou estudante de Ciência de Dados, apaixonado por programação e fã de Python.
 
+🤓 Louco por Games e História!
 
-## Outras seções comuns em perfis do GitHub
 👩‍💻 Atualmente estou em transição de carreira e me dedicando inteiramente ao universo infinito dos dados.
 
 🧠 Estou aprendendo Machine Learning, aprofundando os conhecimentos em estatística e no meio disso tudo o Python não pode faltar!
