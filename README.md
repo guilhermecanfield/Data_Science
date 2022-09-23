@@ -4,4 +4,4 @@
 
 Me adicione no Linkedin: www.linkedin.com/in/guilherme-canfield-de-almeida-b0221b185
 	
-	![image]({(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)})
+<img src="{(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)}" />
