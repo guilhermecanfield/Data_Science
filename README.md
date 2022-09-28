@@ -1,5 +1,5 @@
 # Data_Science
-Repositório contendo meus projetos práticos e tudo o que tenho estudados.
+Repositório contendo meus projetos práticos e tudo o que tenho estudado.
 
 ### Projetos de Machine Learning:
  - Ames_House_Sale_Predict : Linear Regression
