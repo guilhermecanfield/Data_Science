@@ -2,7 +2,7 @@
 Repositório contendo meus projetos práticos e tudo o que tenho estudado.
 
 ### Projetos de Machine Learning:
- - Ames_House_Sale_Predict : Linear Regression
+ - [Ames_House_Sale_Predict : Linear Regression](https://github.com/guilhermecanfield/Data_Science/blob/main/Projetos%20de%20Machine%20Learning/Ames_House_Sale_Predict.ipynb)
  - Churn_Prediction_Tree_Methods : Decision Tree, Random Forrest, AdaBoost Regressor
  - CIA_Country_Clustering_KMeans : KMeans Clustering
  - Heart_Disease_Prediction : Logistic Regression
